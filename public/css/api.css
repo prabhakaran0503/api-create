@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.api-sec{
+    background-color: rgb(242, 247, 247);
+    height: 100vh;
+    text-align: center;
+    padding: 10px;
+}
+.api-content{
+    margin-top: 50px;
+   
+}
+.api-input{
+    padding: 3px 5px;
+}
+.api-btn1{
+    padding: 5px 20px;
+    margin: 5px;
+    background-color: rgb(236, 105, 225);
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+}
+.api-btn2{
+    padding: 5px 20px;
+    margin: 5px;
+    background-color: rgb(11, 185, 90);
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+}
+.api-btn3{
+    padding: 5px 20px;
+    margin: 5px;
+    background-color: rgb(226, 61, 20);
+    border: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: white;
+}

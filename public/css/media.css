@@ -1,0 +1,526 @@
+/* mobile */
+@media(min-width:320px){
+    .header-section{
+        width:100%;
+        height:180vh;
+    }
+    .container-heder{
+    width: 85%;
+    height:180vh;
+    margin: 0 auto;
+    }
+    .header-row3{
+    display: flex;
+    flex-wrap:wrap;
+}
+    .header-colomuns{
+    width:100%;
+    padding: 10px;
+      }
+      
+      /* card section */
+      
+      .services-row{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    
+   
+    
+}
+.services-colum{
+     width:100%;
+    
+     padding:10px;
+    
+    
+       }	 
+   /* about-section  */
+.about-row{
+   width:100%;
+   display:flex;
+   flex-wrap:wrap;
+}
+.about-companyname-row{
+    width:100%;
+    display:flex;
+   flex-wrap:wrap;
+   padding:40px 20px;
+}
+.about-img-cloumn{ 
+                 width:100%;
+            }	
+             
+}
+/* portfolio */
+    .portfolio-row{
+                        width:100%;
+                        display:flex;
+                        flex-wrap:wrap;
+                        padding-bottom: 38px;
+                  }
+    .portfolio-coloumn {
+                        width:100%;
+                       }
+    .portfolio-content-row	{
+                          width:100%;
+                          display:flex;
+                          flex-wrap:wrap;
+                         }	
+    .portfolio-content-column {
+                          width:100%;
+    
+                         }	
+    .portfolio-iocn{
+                    width:100%;
+                    display:flex;
+                    flex-wrap:wrap;					 
+    
+                   }
+    .portfolio-iocn-content{
+                            width:100%;
+                            display:flex;
+                            padding-left: 10px;
+                            
+                       }
+       /* Team */
+                        .team-row{
+                        width:100%;
+                        display:flex;
+                        flex-wrap:wrap;
+                        }
+        .team-cloumn{
+                        width:100%;
+                   }
+        /* contact */
+         .contact-form-row{
+                  width:100%;
+                  display:flex;
+                  flex-wrap:wrap;
+                  }
+        .contact-iocn-colomun{
+                          width:100%;
+                          }
+        .contact-form-colomun { 
+                         width:100%; 
+                    } 
+        .form-first-row {
+                            width:100%;
+                            display:flex;
+                            flex-wrap:wrap;
+                        } 
+        .name-div{
+                            width:100%;
+                            margin:10px 0px;
+                            border:  1px solid;
+                       }
+             .email-div{
+                                width:100%;
+                                border: 1px solid;
+                           }
+            .form-button{
+                                width: 40%;
+                                height: 64px;
+                                
+
+                        }	
+       /* footer*/
+         .footer-row{
+                            width:100%;
+                            display:flex;
+                            flex-wrap:wrap;
+                       }
+        .footer-cloumn1{
+                            width:100%;
+                       }
+        .footer-cloumn2{ 
+                                width:100%;
+                           }
+        .footer-clomun3{
+                        width:100%;
+                       }	
+       .contact-subject-text{
+          border: 1px solid;
+          margin-top: 5px;
+       }						
+    
+/* ipad */
+@media(min-width:660px){
+    .header-section{
+                        width:100%;
+                        height:180vh;
+                   }
+    .container-heder{
+                        width: 85%;
+                        height:180vh;
+                        
+                        margin: 0 auto;
+                   }
+    .header-row3{
+                    width:100%;
+                   display: flex;
+                   flex-wrap:wrap;
+                
+    
+               }
+    .header-colomuns{
+                       width:50%;
+                       padding: 50px 10px;
+      
+     
+                   }
+     .header-section{
+    
+    
+    background-size:cover;
+    background-position:bottom;
+    background-repeat:no-repeat;
+    
+    }
+    
+    /* card section */
+      
+      .services-row{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    
+   
+    
+}
+.services-colum{
+     width:50%;
+    
+     padding:30px;
+    
+    
+       }	
+    /* aboutsction */	
+           .about-row{
+                     width:100%;
+                     display:flex;
+                     flex-wrap:wrap;
+                    }	
+            .about-column{
+                width:100%;
+                
+           }	
+            .about-companyname-row{
+                width:100%;
+                display:flex;
+               flex-wrap:wrap;
+               padding:40px 20px;
+           }	
+           .about-img-cloumn{ 
+                 width:100%;
+            }	
+    /* portfolio */
+    .portfolio-row{
+                        width:100%;
+                        display:flex;
+                        flex-wrap:wrap;
+                         padding-bottom: 38px;
+                  }
+    .portfolio-coloumn {
+                        width:100%;
+                       }	
+    .portfolio-content-row	 {
+                        width:100%;
+                        display:flex;
+                        flex-wrap:wrap;
+                         }		
+    .portfolio-content-column {
+                            width:100%;
+    
+                            }
+    .portfolio-iocn{
+                    width:100%;
+                    display:flex;
+                    flex-wrap:wrap;					 
+                    
+    
+                   }
+    .portfolio-iocn-content{
+                            width:100%;
+                            display:flex;
+                            padding-left: 10px;
+                            
+                       }	
+     /* Team*/
+                .team-row{
+                        width:100%;
+                        display:flex;
+                        flex-wrap:wrap;
+                        }
+       .team-cloumn{
+                        width:100%;
+                   }
+        /* contact*/
+        .contact-form-row{
+                  width:100%;
+                  display:flex;
+                  flex-wrap:wrap;
+                  }
+         .contact-iocn-colomun{
+                          width:100%;
+                          }
+        .contact-form-colomun { 
+                         width:100%; 
+                    } 
+        .form-first-row {
+                            width:100%;
+                            display:flex;
+                            flex-wrap:wrap;
+                        } 
+        .name-div{
+                            width:100%;
+                            margin:10px 0px;
+                       }
+             .email-div{
+                                width:100%;
+                           }
+          .form-button{
+                                width: 40%;
+                                height: 64px;
+                                
+
+                        }	
+        /* footer*/
+         .footer-row{
+                            width:100%;
+                            display:flex;
+                            flex-wrap:wrap;
+                       }						 
+                                     
+        
+        }
+        .footer-cloumn1{
+                            width:100%;
+                       }
+        .footer-cloumn2{  
+                                width:100%;
+                           }
+        .footer-clomun3{
+                        width:100%;
+                       }							
+/* lap */
+@media(min-width:960px){
+    .header-section{
+        width:100%;
+        height:100vh;
+    }
+    .container-heder{
+    width: 85%;
+    height:100vh;
+    margin: 0 auto;
+    }
+.header-row3{
+                    width:100%;
+                   display: flex;
+                   flex-wrap:wrap;
+                
+    
+               }
+    .header-colomuns{
+                       width:25%;
+                       padding: 50px 10px;
+      
+     
+                   }
+    .header-section{
+    
+   
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    
+    }
+    
+     .seting-icon {
+        display:none;
+        
+    }
+    .navlist{
+        display:block;
+    }
+    .btn{
+           display:block;
+    }
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    /* card section */
+      
+      .services-row{
+                    width:100%;
+                    display:flex;
+                    flex-wrap:wrap;
+                    
+                   
+                    
+                   }
+.services-colum{
+                  width:33.33%;
+                  padding:30px;
+     
+    
+    
+    
+       }	
+       /* aboutsction */
+           .about-row{
+                     width:100%;
+                     display:flex;
+                    }
+            .about-column{
+                width:50%;
+                
+           }
+           .about-companyname-row{
+                                width:100%;
+                                display:flex;
+                                justify-content:space-between; 
+                                /* padding:40px 20px; */
+    
+                               
+
+                           }
+            .about-img-cloumn{ 
+                 width:10%;
+            }
+           /* portfolio */
+    .portfolio-row{
+                        width:100%;
+                        display:flex;
+                         padding-bottom: 38px;
+                        
+                  }
+    .portfolio-coloumn {
+                        width:33.33%;
+                       }
+    .portfolio-content-row	 {
+                        width:100%;
+                        display:flex;
+                         }
+    .portfolio-content-column {
+                         width:50%;
+    
+                          }
+    .portfolio-iocn{
+                    width:100%;
+                    display:flex;						  
+    
+                   }
+    .portfolio-iocn-content{
+                            width:50%;
+                            display:flex;
+                            padding-left: 10px;
+                            
+                       }
+    /* team */
+        .team-row{
+                        width:100%;
+                        display:flex;
+                       
+                        }
+        .team-cloumn{
+                        width:23%;
+                   }
+     /* contact*/
+        .contact-form-row{
+                  width:100%;
+                  display:flex;
+                  
+                  }
+         .contact-iocn-colomun{
+                          width:30%;
+                          }
+        .contact-form-colomun { 
+                         width:70%; 
+                    } 
+        .form-first-row {
+                            width:100%;
+                            display:flex;
+                            
+                        } 
+             .name-div{
+                            width:45%;
+                       }
+             .email-div{
+                                width:45%;
+                                margin:10px 0px;
+                           }
+              .form-button{
+                                width: 20%;
+                                height: 51px;
+                                
+
+                        }	
+        /* footer*/
+         .footer-row{
+                            width:100%;
+                            display:flex;
+                       }
+        .footer-cloumn1{
+                            width:30%;
+                       }
+        .footer-cloumn2{  
+                                width:15%;
+                           }			
+        .footer-clomun3{
+                        width:35%;
+                        padding-left: 68px;
+                       }
+                           
+}
+/* nav section media */
+@media(max-width:991px){
+   .nav-section {
+    padding:20px;
+   }
+   .nav-section label{
+        /* display:block; */
+        color: white;
+        font-size: 37px;
+   }
+  .nav-section  .navbar{
+      position:absolute;
+      top:100%;
+      left:0;
+      right:0;
+      border-top:1px solid;
+      display:none;
+  }	
+ .nav-section  .navbar ul li{
+     width:100%;
+    
+    
+ }	  
+ .nav-section  .navbar ul li ul{
+    position:relative;
+    width:100%;
+   
+ }
+ .nav-section  .navbar ul li ul li ul li a{
+     z-index:1000;
+     color:white;
+   padding-left:60%;
+   
+    
+     
+ }
+  input{visibility:hidden;} 
+ #toggle,.nav-section label {
+   display:block;
+}
+#toggle:checked~ .navbar {
+   display:block;
+}
+
+}

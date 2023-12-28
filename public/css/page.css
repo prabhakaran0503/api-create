@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.page-content-btn{
+    /* background-color: aqua; */
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10rem;
+}
+.Apicreate{
+    padding:8px 20px;
+    margin: 10px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.card{
+    margin: 20px;
+}
+
+.page-conatiner{
+    background-color: rgb(223, 223, 224);
+    width: 100%;
+    height: 100vh;
+    padding: 10px;
+}
+.page-roe{
+    background-color: rgb(198, 201, 201);
+    width: 30%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    /* text-align: center; */
+}
+.page-content{
+    padding: 20px;
+}
+.content-div img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
